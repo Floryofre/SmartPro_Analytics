@@ -49,11 +49,6 @@ El propósito principal de este proyecto es proporcionar a la agencia herramient
   <img src="https://miro.medium.com/max/1400/1*XzCkXO2d8k9uLs9bma1PKg.png" alt="Análisis de Datos">
 </p>
 
-<h2 align="left">Valor Agregado del Proyecto</h2>
-
-<p align="left">
-Nuestro enfoque estratégico y personalizado se destaca por su metodología objetiva y orientada a resultados tangibles. Utilizamos evaluaciones imparciales del desempeño de jugadores y equipos, así como la identificación de patrones y tendencias, para respaldar decisiones de negociación de contratos y desarrollo de talentos. Además, nuestra capacidad para proyectar el retorno económico futuro de los jugadores con alto potencial ofrece a SmartPro Analytics una visión informada para decisiones de inversión y estrategias a largo plazo.
-</p>
 
 <h2 align="left">Resultados Esperados</h2>
 
