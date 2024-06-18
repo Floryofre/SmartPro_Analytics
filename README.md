@@ -7,11 +7,11 @@ Bienvenidos al repositorio del proyecto final de SmartPro Analytics, una consult
 Este proyecto ha sido desarrollado por un equipo multidisciplinario compuesto por expertos en ingeniería de datos, ciencia de datos y análisis de datos.A continuación, presentamos a los integrantes del equipo:
 
 - [Angela Natalia Escobar Castro](https://github.com/Angela1611) - Data Scientist
-- Arturo Ponce de León - Data Analyst
+- [Arturo Ponce de León](https://github.com/arturoplm) - Data Analyst
 - [Daniel Choi](https://github.com/dani88i) - Data Engineer
 - [Lautaro Fochesatto](https://github.com/LautaroFoche) - Data Scientist
 - [Maria Florencia Yofre](https://linktr.ee/FloryofreDA) - Data Analyst
-  
+
 ### Contexto del Proyecto
 
 SmartPro Analytics ha sido contratada por una agencia de representación deportiva que está incursionando en el competitivo mercado de la NBA. La agencia tiene como objetivo evaluar de manera objetiva el rendimiento de sus jugadores y equipos actuales para mejorar las negociaciones de contratos y tomar decisiones estratégicas sobre sus carreras. Además, busca ampliar su cartera de jugadores para posicionarse mejor en el mercado.
@@ -37,6 +37,7 @@ Nuestro enfoque estratégico y personalizado se destaca por su metodología obje
 ### Impacto Esperado
 
 Para la compañía, se espera que este proyecto conduzca a:
+
 - Rendimiento optimizado de los jugadores.
 - Toma de decisiones más informadas y estratégicas.
 - Incremento en el valor de mercado de los jugadores.
