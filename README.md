@@ -5,8 +5,10 @@
 
 <p align="left">
   <img src="https://github.com/Floryofre/SmartPro_Analytics/blob/main/imagenes/Logo_PF.jpg?raw=true" alt="Logo de SmartPro Analytics" width="180" height="180" style="margin-right: 08px;">
+  <img src="https://github.com/Floryofre/SmartPro_Analytics/blob/main/imagenes/Baloncesto.gif?raw=true" alt="GIF Animado de Celebración" width="200" height="200">
   <img src="https://github.com/Floryofre/SmartPro_Analytics/blob/main/imagenes/nba-logo.svg?raw=true" alt="Logo de la NBA" width="200" height="200">
 </p>
+
 
 <h2 align="left">Introducción</h2>
 
