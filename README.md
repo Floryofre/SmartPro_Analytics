@@ -6,11 +6,20 @@ Bienvenidos al repositorio del proyecto final de **SmartPro Analytics**, una con
 
 Este proyecto ha sido desarrollado por un equipo multidisciplinario compuesto por expertos en ingeniería de datos, ciencia de datos y análisis de datos. A continuación, presentamos a los integrantes del equipo:
 
-- [Angela Natalia Escobar Castro](https://github.com/Angela1611) - Data Scientist
-- [Arturo Ponce de León](https://github.com/arturoplm) - Data Analyst
+- <a href="https://www.linkedin.com/in/angela-escobar161/">
+  <img alt="Angela Escobar" title="Connect with Angela" src="https://img.shields.io/badge/Angela Escobar-0077B5?style=flat&logo=Linkedin&logoColor=white">
+  </a><span style="margin-left: 10px;"> - DATA SCIENTIST</span>
+
+- <a href="https://https://www.linkedin.com/in/arturoplm/">
+  <img alt="Arturo Ponce de León" title="Connect with Angela" src="https://img.shields.io/badge/Arturo Ponce de León-0077B5?style=flat&logo=Linkedin&logoColor=white">
+  </a><span style="margin-left: 10px;"> - DATA ANALYST</span>
+  
 - [Daniel Choi](https://github.com/dani88i) - Data Engineer
-- [Lautaro Fochesatto](https://github.com/LautaroFoche) - Data Scientist
-- [Maria Florencia Yofre](https://linktr.ee/FloryofreDA) - Data Analyst
+  
+- <a href="https://www.linkedin.com/in/lautaro-fochesatto/">
+  <img alt="Lautaro fochesatto" title="Connect with Florencia" src="https://img.shields.io/badge/Lautaro fochesatto-0077B5?style=flat&logo=Linkedin&logoColor=white">
+  </a><span style="margin-left: 10px;"> - DATA SCIENTIST</span>
+ 
 - <a href="https://www.linkedin.com/in/MaFlorenciaYofre/">
   <img alt="Florencia Yofre" title="Connect with Florencia" src="https://img.shields.io/badge/Florencia Yofre-0077B5?style=flat&logo=Linkedin&logoColor=white">
   </a><span style="margin-left: 10px;"> - DATA ANALYST</span>
@@ -38,15 +47,32 @@ El propósito principal de este proyecto es proporcionar a la agencia herramient
 
 ## 🔹 Fuentes de Datos 🔹
 
-Utilizaremos el dataset "NBA Database" de Kaggle. Enlace al dataset.
+Utilizaremos el dataset "[NBA Database](https://www.kaggle.com/datasets/wyattowalsh/basketball/discussion?sort=hotness)" de Kaggle.
 
 Descripción de los Datos:
 
-- **players.csv**: Información sobre los jugadores (nombre, equipo, posición, datos demográficos).
-- **teams.csv**: Información sobre los equipos (nombre, ciudad, estadios).
-- **games.csv**: Detalles de los partidos (fecha, equipos participantes, resultados).
-- **game_stats.csv**: Estadísticas detalladas de los partidos.
-- **seasons.csv**: Información sobre las temporadas de la NBA (años, fechas de inicio y fin).
+### Archivos CSV
+
+1. `common_player_info.csv`: **Información básica y común de los jugadores.**
+2. `draft_combine_stats.csv`: **Estadísticas de los jugadores durante el combine del draft.**
+3. `draft_history.csv`: **Registro histórico de selecciones del draft.**
+4. `game.csv`: **Detalles de los juegos individuales.**
+5. `game_info.csv`: **Información general sobre los juegos.**
+6. `game_summary.csv`: **Resúmenes de los juegos.**
+7. `inactive_players.csv`: **Lista de jugadores inactivos.**
+8. `injuries.csv`: **Información sobre lesiones de jugadores.**
+9. `line_score.csv`: **Puntuaciones por línea en los juegos.**
+10. `merged.csv`: **Archivo combinado con múltiples datos de otras fuentes.**
+11. `merged_injuries_db.csv`: **Dataset de estadísticas y lesiones de jugadores.**
+12. `officials.csv`: **Información sobre los oficiales del juego.**
+13. `other_stats.csv`: **Otras estadísticas relevantes.**
+14. `player.csv`: **Información sobre los jugadores (nombre, equipo, posición, datos demográficos).**
+15. `salary.csv`: **Fuente externa de los salarios de la NBA.**
+16. `salary_db.csv`: **Archivo final de salarios con el Player_Id de los jugadores para integrarse a las otras fuentes de datos.**
+17. `team.csv`: **Información sobre los equipos (nombre, ciudad, estadios).**
+18. `team_details.csv`: **Detalles adicionales de los equipos.**
+19. `team_history.csv`: **Historia de los equipos.**
+20. `team_info_common.csv`: **Información común sobre los equipos.**
 
 ## 🔹 Plan de Análisis de Datos 🔹
 
@@ -84,15 +110,15 @@ Descripción de los Datos:
 
 ### _Fase 1: Recolección y Preparación de Datos_
 
-- Herramientas: Python (Pandas, NumPy), SQL Server, Power BI.
+- Herramientas: Python (Pandas, NumPy, Jupyter Notebooks), SQL Server, Power BI.
 
 ### _Fase 2: Análisis Descriptivo_
 
-- Herramientas: Python (Matplotlib, Seaborn), Power BI.
+- Herramientas: Python (Matplotlib, Seaborn, Jupyter Notebooks).
 
 ### _Fase 3: Comunicación y Presentación de Resultados_
 
-- Herramientas: Power BI, Python (Jupyter Notebooks).
+- Herramientas: Power BI.
 
 
 
