@@ -1,95 +1,100 @@
+![Banner de LinkedIn Lugar de Trabajo Ordenado (4)](https://github.com/Floryofre/SmartPro_Analytics/assets/98930289/d02e6d2a-e6f7-4a0d-bada-00629650477e)
 
- <h1 align="left" style="color: white;">SmartPro Analytics</h1>
- <h2 align="left" style="color: white;">Evaluación y Optimización del Rendimiento en la NBA</h2>
+## Introducción
 
+Bienvenidos al repositorio del proyecto final de **SmartPro Analytics**, una consultora especializada en análisis de datos.
 
-<p align="left">
-  <img src="https://github.com/Floryofre/SmartPro_Analytics/blob/main/imagenes/Logo_PF.jpg?raw=true" alt="Logo de SmartPro Analytics" width="180" height="180" style="margin-right: 08px;">
-  <img src="https://github.com/Floryofre/SmartPro_Analytics/blob/main/imagenes/Baloncesto.gif?raw=true" alt="GIF Animado de Celebración" width="200" height="200">
-  <img src="https://github.com/Floryofre/SmartPro_Analytics/blob/main/imagenes/nba-logo.svg?raw=true" alt="Logo de la NBA" width="200" height="200">
-</p>
-
-
-<h2 align="left">Introducción</h2>
-
-<p align="left">
-Bienvenidos al repositorio del proyecto final de SmartPro Analytics, una consultora especializada en análisis de datos.
-</p>
-
-<p align="left">
 Este proyecto ha sido desarrollado por un equipo multidisciplinario compuesto por expertos en ingeniería de datos, ciencia de datos y análisis de datos. A continuación, presentamos a los integrantes del equipo:
-</p>
 
-<p align="left">
-  <a href="https://github.com/Angela1611">Angela Natalia Escobar Castro</a> - Data Scientist<br>
-  <a href="https://github.com/arturoplm">Arturo Ponce de León</a> - Data Analyst<br>
-  <a href="https://github.com/dani88i">Daniel Choi</a> - Data Engineer<br>
-  <a href="https://github.com/LautaroFoche">Lautaro Fochesatto</a> - Data Scientist<br>
-  <a href="https://linktr.ee/FloryofreDA">Maria Florencia Yofre</a> - Data Analyst
-</p>
+- [Angela Natalia Escobar Castro](https://github.com/Angela1611) - Data Scientist
+- [Arturo Ponce de León](https://github.com/arturoplm) - Data Analyst
+- [Daniel Choi](https://github.com/dani88i) - Data Engineer
+- [Lautaro Fochesatto](https://github.com/LautaroFoche) - Data Scientist
+- [Maria Florencia Yofre](https://linktr.ee/FloryofreDA) - Data Analyst
 
+## Contexto del Proyecto
 
-<h2 align="left">Contexto del Proyecto</h2>
+SmartPro Analytics ha sido contratada por una agencia de representación deportiva que está incursionando en el competitivo mercado de la NBA. La agencia busca evaluar de manera objetiva el rendimiento de sus jugadores y equipos para mejorar las negociaciones de contratos y tomar decisiones estratégicas, así como ampliar su cartera de jugadores para posicionarse mejor en el mercado.
 
-<p align="left">
-SmartPro Analytics ha sido contratada por una agencia de representación deportiva que está incursionando en el competitivo mercado de la NBA. La agencia tiene como objetivo evaluar de manera objetiva el rendimiento de sus jugadores y equipos actuales para mejorar las negociaciones de contratos y tomar decisiones estratégicas sobre sus carreras. Además, busca ampliar su cartera de jugadores para posicionarse mejor en el mercado.
-</p>
+## Propósito y Objetivos
 
-<h2 align="left">Propósito y Objetivos</h2>
+El propósito principal de este proyecto es proporcionar a la agencia herramientas y análisis que le permitan optimizar el rendimiento de sus jugadores y equipos. Los objetivos específicos son:
 
-<p align="left">
-El propósito principal de este proyecto es proporcionar a la agencia herramientas y análisis que le permitan optimizar el rendimiento de sus jugadores y equipos. Para lograrlo, hemos definido los siguientes objetivos específicos:
-</p>
+1. **Evaluación del Desempeño de Jugadores y Equipos**: Mejorar la negociación de contratos y la toma de decisiones estratégicas.
 
-<p align="left">
-1. <strong>Evaluación del Desempeño de los Jugadores y Equipos</strong>: Establecer mejoras objetivas y concretas en la negociación de contratos y toma de decisiones.<br>
-2. <strong>Reconocimiento y Desarrollo de Nuevos Talentos</strong>: Identificar patrones y tendencias para descubrir jugadores con alto potencial.<br>
-3. <strong>Obtención de Estadísticas y Análisis de Rendimiento</strong>: Implementar medidas preventivas para maximizar el desempeño.
-</p>
+2. **Reconocimiento y Desarrollo de Nuevos Talentos**: Identificar patrones y tendencias para descubrir jugadores con alto potencial.
 
-<p align="left">
-  <img src="https://miro.medium.com/max/1400/1*XzCkXO2d8k9uLs9bma1PKg.png" alt="Análisis de Datos">
-</p>
+3. **Obtención de Estadísticas y Análisis de Rendimiento**: Implementar medidas preventivas para maximizar el desempeño.
 
-<h2 align="left">Valor Agregado del Proyecto</h2>
+## Resultados Esperados
 
-<p align="left">
-Nuestro enfoque estratégico y personalizado se destaca por su metodología objetiva y orientada a resultados tangibles. Utilizamos evaluaciones imparciales del desempeño de jugadores y equipos, así como la identificación de patrones y tendencias, para respaldar decisiones de negociación de contratos y desarrollo de talentos. Además, nuestra capacidad para proyectar el retorno económico futuro de los jugadores con alto potencial ofrece a SmartPro Analytics una visión informada para decisiones de inversión y estrategias a largo plazo.
-</p>
+- **Dashboards Interactivos**: Información detallada sobre el rendimiento de jugadores y equipos.
+- **Base de Datos Estructurada**: Gestión simplificada y análisis accesible de datos históricos y actuales.
+- **Código Especializado**: Análisis de datos adaptados a las necesidades específicas de la compañía.
 
-<h2 align="left">Resultados Esperados</h2>
+## Fuentes de Datos
 
-<p align="left">
-<ul align="left">
-  <li><strong>Dashboards Interactivos</strong>: Información detallada sobre el rendimiento de jugadores y equipos.</li>
-  <li><strong>Base de Datos Estructurada</strong>: Gestión simplificada y análisis accesible de datos históricos y actuales.</li>
-  <li><strong>Código Especializado</strong>: Análisis de datos que responda a las necesidades específicas de la compañía.</li>
-</ul>
-</p>
+Utilizaremos el dataset "NBA Database" de Kaggle. Enlace al dataset.
 
-<p align="left">
-  <img src="https://www.eazybi.com/wp-content/uploads/dashboard-example-2.jpg" alt="Dashboard Interactivo">
-</p>
+Descripción de los Datos:
 
-<h2 align="left">Impacto Esperado</h2>
+- **players.csv**: Información sobre los jugadores (nombre, equipo, posición, datos demográficos).
+- **teams.csv**: Información sobre los equipos (nombre, ciudad, estadios).
+- **games.csv**: Detalles de los partidos (fecha, equipos participantes, resultados).
+- **game_stats.csv**: Estadísticas detalladas de los partidos.
+- **seasons.csv**: Información sobre las temporadas de la NBA (años, fechas de inicio y fin).
 
-<p align="left">
-Para la compañía, se espera que este proyecto conduzca a:
-</p>
+## Plan de Análisis de Datos
 
-<p align="left">
-<ul align="left">
-  <li>Rendimiento optimizado de los jugadores.</li>
-  <li>Toma de decisiones más informadas y estratégicas.</li>
-  <li>Incremento en el valor de mercado de los jugadores.</li>
-</ul>
-</p>
+### Recolección de Datos:
 
-<p align="left">
-  <img src="https://miro.medium.com/max/1400/1*ZnBzDDvvoPz6kW1XisS3TA.jpeg" alt="Toma de Decisiones">
-</p>
+- **Estadísticas de Juego**: Datos de rendimiento de jugadores en la NBA.
+- **Datos de Scouting**: Información sobre jugadores universitarios e internacionales.
+- **Datos Físicos y Psicológicos**: Evaluaciones físicas y psicológicas.
 
+### Limpieza y Preparación de Datos:
 
+- Eliminación de valores atípicos, corrección de errores y tratamiento de datos faltantes.
 
+### Análisis Descriptivo:
 
+- Cálculo de estadísticas básicas y visualización de datos para revelar el rendimiento individual y comparativo de los jugadores.
+
+### Evaluación de Talentos:
+
+- Creación de un sistema de puntuación y predicción del potencial de nuevos talentos.
+
+### Análisis Prescriptivo:
+
+- Generación de recomendaciones estratégicas y optimización del rendimiento.
+
+### Visualización y Comunicación de Resultados:
+
+- Informes detallados y dashboards interactivos para la exploración de datos en tiempo real.
+
+## Tareas y Tecnologías
+
+### Fase 0: Control de Versiones
+
+- Plataforma: GitHub para creación del repositorio y mantenimiento de control de versiones.
+
+### Fase 1: Recolección y Preparación de Datos
+
+- Herramientas: Python (Pandas, NumPy), SQL Server, Power BI.
+
+### Fase 2: Análisis Descriptivo
+
+- Herramientas: Python (Matplotlib, Seaborn), Power BI.
+
+### Fase 3: Análisis Prescriptivo
+
+- Herramientas: Python, Power BI.
+
+### Fase 4: Comunicación y Presentación de Resultados
+
+- Herramientas: Power BI, Python (Jupyter Notebooks).
+
+## Conclusión
+
+Este proyecto tiene como objetivo principal mejorar el posicionamiento de la agencia de representación deportiva en el mercado, mediante el uso de análisis de datos avanzados y estrategias basadas en datos. El equipo de SmartPro Analytics se compromete a entregar resultados que optimicen el rendimiento de los jugadores y apoyen la toma de decisiones informadas.
 
