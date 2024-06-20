@@ -86,11 +86,7 @@ Descripción de los Datos:
 
 - Herramientas: Python (Matplotlib, Seaborn), Power BI.
 
-### Fase 3: Análisis Prescriptivo
-
-- Herramientas: Python, Power BI.
-
-### Fase 4: Comunicación y Presentación de Resultados
+### Fase 3: Comunicación y Presentación de Resultados
 
 - Herramientas: Power BI, Python (Jupyter Notebooks).
 
