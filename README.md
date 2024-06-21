@@ -8,21 +8,23 @@ Este proyecto ha sido desarrollado por un equipo multidisciplinario compuesto po
 
 - <a href="https://www.linkedin.com/in/angela-escobar161/">
   <img alt="Angela Escobar" title="Connect with Angela" src="https://img.shields.io/badge/Angela Escobar-0077B5?style=flat&logo=Linkedin&logoColor=white">
-  </a><span style="margin-left: 10px;"> - DATA SCIENTIST</span>
+  </a><span style="margin-left: 6px;"> - DATA SCIENTIST</span>
 
 - <a href="https://https://www.linkedin.com/in/arturoplm/">
-  <img alt="Arturo Ponce de León" title="Connect with Angela" src="https://img.shields.io/badge/Arturo Ponce de León-0077B5?style=flat&logo=Linkedin&logoColor=white">
-  </a><span style="margin-left: 10px;"> - DATA ANALYST</span>
-  
-- [Daniel Choi](https://github.com/dani88i) - Data Engineer
-  
+  <img alt="Arturo Ponce de León" title="Connect with Arturo" src="https://img.shields.io/badge/Arturo Ponce de León-0077B5?style=flat&logo=Linkedin&logoColor=white">
+  </a><span style="margin-left: 6px;"> - DATA ANALYST</span>
+ 
+- <a href="https://www.linkedin.com/in/daniel-choi-b0ab96212/">
+  <img alt="Daniel Choi" title="Connect with Daniel" src="https://img.shields.io/badge/Daniel Choi-0077B5?style=flat&logo=Linkedin&logoColor=white">
+  </a><span style="margin-left: 6px;"> - DATA ENGINEER</span>
+ 
 - <a href="https://www.linkedin.com/in/lautaro-fochesatto/">
-  <img alt="Lautaro fochesatto" title="Connect with Florencia" src="https://img.shields.io/badge/Lautaro fochesatto-0077B5?style=flat&logo=Linkedin&logoColor=white">
-  </a><span style="margin-left: 10px;"> - DATA SCIENTIST</span>
+  <img alt="Lautaro fochesatto" title="Connect with Lautaro" src="https://img.shields.io/badge/Lautaro fochesatto-0077B5?style=flat&logo=Linkedin&logoColor=white">
+  </a><span style="margin-left: 6px;"> - DATA SCIENTIST</span>
  
 - <a href="https://www.linkedin.com/in/MaFlorenciaYofre/">
   <img alt="Florencia Yofre" title="Connect with Florencia" src="https://img.shields.io/badge/Florencia Yofre-0077B5?style=flat&logo=Linkedin&logoColor=white">
-  </a><span style="margin-left: 10px;"> - DATA ANALYST</span>
+  </a><span style="margin-left: 6px;"> - DATA ANALYST</span>
 
 
 ## 🔹 Contexto del Proyecto 🔹
