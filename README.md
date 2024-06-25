@@ -104,7 +104,33 @@ Descripción de los Datos:
 
 - Informes detallados y dashboards interactivos para la exploración de datos en tiempo real.
 
-## 🔹 Tareas y Tecnologías 🔹 <a href="https://emoji.gg/emoji/9794-python"><img src="https://cdn3.emoji.gg/emojis/9794-python.png" width="20px" height="20px" alt="python"></a> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="20px" height="20px" /> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="20px" height="20px" />
+<!-- TECH STACK -->
+<h2>
+    🔹 Tareas y Tecnologías 🔹 <img alt="TechStack" src="https://backstage.io/animations/backstage-techdocs-icon-1.gif" width=50px>
+</h2> 
+<div align="left">
+  <a href="https://www.python.org/" target="_blank"><img src=https://img.shields.io/badge/Python-111112?&style=flat-square&logo=python alt=python height=27px/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src=https://img.shields.io/badge/Jupyter-111112?&style=flat-square&logo=jupyter alt=jupyter height=27px/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src=https://img.shields.io/badge/Pandas-111112?&style=flat-square&logo=pandas&logoColor=150458 alt=pandas height=27px/></a>
+  <a href="https://numpy.org/" target="_blank"><img src=https://img.shields.io/badge/Numpy-111112?&style=flat-square&logo=numpy&logoColor=013243 alt=numpy height=27px/></a>
+  <a href="https://plotly.com/" target="_blank"><img src=https://img.shields.io/badge/Plotly-111112?&style=flat-square&logo=plotly&logoColor=3F4F75 alt=plotly height=27px/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src=https://img.shields.io/badge/MySQL-111112?&style=flat-square&logo=mysql&logoColor=4479A1 alt=mysql height=27px/></a>
+  <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank"><img src=https://img.shields.io/badge/SQLServer-111112?&style=flat-square&logo=microsoftsqlserver&logoColor=CC2927 alt=sqlserver height=27px/></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src=https://img.shields.io/badge/SQLite-111112?&style=flat-square&logo=sqlite&logoColor=003B57 alt=sqlite height=27px/></a> 
+  <a href="https://scikit-learn.org/" target="_blank"><img src=https://img.shields.io/badge/ScikitLearn-111112?&style=flat-square&logo=scikitlearn&logoColor=F7931E alt=scikitlearn height=27px/></a> 
+  <a href="https://www.docker.com/" target="_blank"><img src=https://img.shields.io/badge/Docker-111112?&style=flat-square&logo=docker&logoColor=2496ED alt=docker height=27px/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src=https://img.shields.io/badge/FastAPI-111112?&style=flat-square&logo=fastapi&logoColor=009688 alt=fastapi height=27px/></a>
+  <a href="https://hadoop.apache.org/" target="_blank"><img src=https://img.shields.io/badge/Hadoop-111112?&style=flat-square&logo=apachehadoop&logoColor=66CCFF alt=hadoop height=27px/></a>
+  <a href="https://powerbi.microsoft.com/es/" target="_blank"><img src=https://img.shields.io/badge/PowerBI-111112?&style=flat-square&logo=powerbi&logoColor=F2C811 alt=powerbi height=27px/></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img src=https://img.shields.io/badge/HTML-111112?&style=flat-square&logo=html5&logoColor=E34F26 alt=html height=27px/></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img src=https://img.shields.io/badge/CSS-111112?&style=flat-square&logo=css3&logoColor=1572B6 alt=css height=27px/></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src=https://img.shields.io/badge/JavaScript-111112?&style=flat-square&logo=javascript&logoColor=F7DF1E alt=javascript height=27px/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src=https://img.shields.io/badge/VSCode-111112?&style=flat-square&logo=visualstudiocode&logoColor=007ACC alt=visualstudiocode height=27px/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src=https://img.shields.io/badge/GIT-111112?&style=flat-square&logo=git&logoColor=F05032 alt=git height=27px/></a>
+  <a href="https://markdown.es/" target="_blank"><img src=https://img.shields.io/badge/Markdown-111112?&style=flat-square&logo=markdown&logoColor=white alt=markdown height=27px/></a>
+  <a href="https://slack.com" target="_blank"><img src=https://img.shields.io/badge/Slack-111112?&style=flat-square&logo=slack&logoColor=4A154B alt=slack height=27px/></a>
+</div>  
+<br>
 
 ### _Fase 0: Control de Versiones_
 
