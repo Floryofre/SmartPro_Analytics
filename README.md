@@ -106,7 +106,7 @@ Descripción de los Datos:
 
 <!-- TECH STACK -->
 <h2>
-    🔹 Tareas y Tecnologías 🔹 <img alt="TechStack" src="https://backstage.io/animations/backstage-techdocs-icon-1.gif" width=50px>
+<img alt="TechStack" src="https://backstage.io/animations/backstage-techdocs-icon-1.gif" width=50px>🔹 Tareas y Tecnologías 🔹<img alt="TechStack" src="https://backstage.io/animations/backstage-techdocs-icon-1.gif" width=50px>
 </h2> 
 <div align="left">
   <a href="https://www.python.org/" target="_blank"><img src=https://img.shields.io/badge/Python-111112?&style=flat-square&logo=python alt=python height=27px/></a>
