@@ -113,14 +113,9 @@ Descripción de los Datos:
   <a href="https://jupyter.org/" target="_blank"><img src=https://img.shields.io/badge/Jupyter-111112?&style=flat-square&logo=jupyter alt=jupyter height=27px/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src=https://img.shields.io/badge/Pandas-111112?&style=flat-square&logo=pandas&logoColor=150458 alt=pandas height=27px/></a>
   <a href="https://numpy.org/" target="_blank"><img src=https://img.shields.io/badge/Numpy-111112?&style=flat-square&logo=numpy&logoColor=013243 alt=numpy height=27px/></a>
-  <a href="https://plotly.com/" target="_blank"><img src=https://img.shields.io/badge/Plotly-111112?&style=flat-square&logo=plotly&logoColor=3F4F75 alt=plotly height=27px/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src=https://img.shields.io/badge/MySQL-111112?&style=flat-square&logo=mysql&logoColor=4479A1 alt=mysql height=27px/></a>
+   <a href="https://matplotlib.org/" target="_blank"><img src= https://github.com/Floryofre/SmartPro_Analytics/blob/main/imagenes/matplotlib-logo-7676870AC0-seeklogo.com.png?raw=true height=27px/></a>
+   <a href="https://www.mysql.com/" target="_blank"><img src=https://img.shields.io/badge/MySQL-111112?&style=flat-square&logo=mysql&logoColor=4479A1 alt=mysql height=27px/></a>
   <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank"><img src=https://img.shields.io/badge/SQLServer-111112?&style=flat-square&logo=microsoftsqlserver&logoColor=CC2927 alt=sqlserver height=27px/></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src=https://img.shields.io/badge/SQLite-111112?&style=flat-square&logo=sqlite&logoColor=003B57 alt=sqlite height=27px/></a> 
-  <a href="https://scikit-learn.org/" target="_blank"><img src=https://img.shields.io/badge/ScikitLearn-111112?&style=flat-square&logo=scikitlearn&logoColor=F7931E alt=scikitlearn height=27px/></a> 
-  <a href="https://www.docker.com/" target="_blank"><img src=https://img.shields.io/badge/Docker-111112?&style=flat-square&logo=docker&logoColor=2496ED alt=docker height=27px/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src=https://img.shields.io/badge/FastAPI-111112?&style=flat-square&logo=fastapi&logoColor=009688 alt=fastapi height=27px/></a>
-  <a href="https://hadoop.apache.org/" target="_blank"><img src=https://img.shields.io/badge/Hadoop-111112?&style=flat-square&logo=apachehadoop&logoColor=66CCFF alt=hadoop height=27px/></a>
   <a href="https://powerbi.microsoft.com/es/" target="_blank"><img src=https://img.shields.io/badge/PowerBI-111112?&style=flat-square&logo=powerbi&logoColor=F2C811 alt=powerbi height=27px/></a>
   <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img src=https://img.shields.io/badge/HTML-111112?&style=flat-square&logo=html5&logoColor=E34F26 alt=html height=27px/></a>
   <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img src=https://img.shields.io/badge/CSS-111112?&style=flat-square&logo=css3&logoColor=1572B6 alt=css height=27px/></a>
