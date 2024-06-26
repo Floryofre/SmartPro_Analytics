@@ -49,7 +49,11 @@ El propósito principal de este proyecto es proporcionar a la agencia herramient
 
 ## 🔹 Fuentes de Datos 🔹
 
-Utilizaremos el dataset "[NBA Database](https://www.kaggle.com/datasets/wyattowalsh/basketball/discussion?sort=hotness)" de Kaggle.
+Utilizamo los siguientes dataset de Kaggle:
+- [NBA Database](https://www.kaggle.com/datasets/wyattowalsh/basketball/discussion?sort=hotness)
+- [Salaries](https://www.kaggle.com/datasets/jamiewelsh2/nba-player-salaries-2022-23-season)
+- [Lesiones](https://www.kaggle.com/datasets/icliu30/nba-player-stats-and-injured-data-from-13-to-23)
+
 
 Descripción de los Datos:
 
