@@ -69,12 +69,10 @@ Descripción de los Datos:
 12. `officials.csv`: **Información sobre los oficiales del juego.**
 13. `other_stats.csv`: **Otras estadísticas relevantes.**
 14. `player.csv`: **Información sobre los jugadores (nombre, equipo, posición, datos demográficos).**
-15. `salary.csv`: **Fuente externa de los salarios de la NBA.**
-16. `salary_db.csv`: **Archivo final de salarios con el Player_Id de los jugadores para integrarse a las otras fuentes de datos.**
-17. `team.csv`: **Información sobre los equipos (nombre, ciudad, estadios).**
-18. `team_details.csv`: **Detalles adicionales de los equipos.**
-19. `team_history.csv`: **Historia de los equipos.**
-20. `team_info_common.csv`: **Información común sobre los equipos.**
+15. `team.csv`: **Información sobre los equipos (nombre, ciudad, estadios).**
+16. `team_details.csv`: **Detalles adicionales de los equipos.**
+17. `team_history.csv`: **Historia de los equipos.**
+18. `team_info_common.csv`: **Información común sobre los equipos.**
 
 ## 🔹 Plan de Análisis de Datos 🔹
 
