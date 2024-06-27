@@ -84,7 +84,7 @@ Descripción de los Datos:
 
 - **Estadísticas de Juego**: Datos de rendimiento de jugadores en la NBA.
 - **Datos de Scouting**: Información sobre jugadores universitarios e internacionales.
-- **Datos Físicos y Psicológicos**: Evaluaciones físicas y psicológicas.
+- **Datos Físicos y de lesiones **: Evaluaciones físicas y de lesiones.
 
 ### _Limpieza y Preparación de Datos_:
 
