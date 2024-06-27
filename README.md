@@ -57,6 +57,7 @@ Utilizamo los siguientes dataset de Kaggle:
 
 Descripción de los Datos:
 
+
 ### Archivos CSV
 
 1. `common_player_info.csv`: **Información básica y común de los jugadores.**
@@ -70,13 +71,15 @@ Descripción de los Datos:
 9. `line_score.csv`: **Puntuaciones por línea en los juegos.**
 10. `merged.csv`: **Archivo combinado con múltiples datos de otras fuentes.**
 11. `merged_injuries_db.csv`: **Dataset de estadísticas y lesiones de jugadores.**
-12. `officials.csv`: **Información sobre los oficiales del juego.**
-13. `other_stats.csv`: **Otras estadísticas relevantes.**
-14. `player.csv`: **Información sobre los jugadores (nombre, equipo, posición, datos demográficos).**
-15. `team.csv`: **Información sobre los equipos (nombre, ciudad, estadios).**
-16. `team_details.csv`: **Detalles adicionales de los equipos.**
-17. `team_history.csv`: **Historia de los equipos.**
-18. `team_info_common.csv`: **Información común sobre los equipos.**
+12. `nba_salaries.csv`: **Información sobre los salarios de los jugadores de la NBA.**
+13. `officials.csv`: **Información sobre los oficiales del juego.**
+14. `other_stats.csv`: **Otras estadísticas relevantes.**
+15. `player.csv`: **Información sobre los jugadores (nombre, equipo, posición, datos demográficos).**
+16. `team.csv`: **Información sobre los equipos (nombre, ciudad, estadios).**
+17. `team_details.csv`: **Detalles adicionales de los equipos.**
+18. `team_history.csv`: **Historia de los equipos.**
+19. `team_info_common.csv`: **Información común sobre los equipos.**
+
 
 ## 🔹 Plan de Análisis de Datos 🔹
 
