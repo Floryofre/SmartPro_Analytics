@@ -84,7 +84,8 @@ Descripción de los Datos:
 
 - **Estadísticas de Juego**: Datos de rendimiento de jugadores en la NBA.
 - **Datos de Scouting**: Información sobre jugadores universitarios e internacionales.
-- **Datos Físicos y de lesiones **: Evaluaciones físicas y de lesiones.
+- **Datos Financieros**: Información fianciera.
+- **Datos Físicos y de lesiones**: Evaluaciones físicas y de lesiones.
 
 ### _Limpieza y Preparación de Datos_:
 
@@ -149,5 +150,5 @@ Descripción de los Datos:
 
 ## 🔹 Conclusión 🔹
 
-Este proyecto tiene como objetivo principal mejorar el posicionamiento de la agencia de representación deportiva en el mercado, mediante el uso de análisis de datos avanzados y estrategias basadas en datos. El equipo de SmartPro Analytics se compromete a entregar resultados que optimicen el rendimiento de los jugadores y apoyen la toma de decisiones informadas.
+Este proyecto tiene como objetivo principal mejorar el posicionamiento de la agencia de representación deportiva en el mercado, mediante el uso de análisis de datos avanzados y estrategias basadas en datos. El equipo de SmartPro Analytics entregó resultados que optimizan el rendimiento de los jugadores y apoyan la toma de decisiones informadas.
 
