@@ -150,5 +150,5 @@ Descripción de los Datos:
 
 ## 🔹 Conclusión 🔹
 
-Este proyecto tiene como objetivo principal mejorar el posicionamiento de la agencia de representación deportiva en el mercado, mediante el uso de análisis de datos avanzados y estrategias basadas en datos. El equipo de SmartPro Analytics entregó resultados que optimizan el rendimiento de los jugadores y apoyan la toma de decisiones informadas.
+Este proyecto tiene como objetivo principal mejorar el posicionamiento de la agencia de representación deportiva en el mercado, mediante el uso de análisis de datos avanzados y estrategias basadas en datos. El equipo de SmartPro Analytics entregó a la agencia un Dashboard con análisis y resultados que optimizan el rendimiento de los jugadores y apoyan la toma de decisiones informadas sobre la gestión de nuevos contratos.
 
