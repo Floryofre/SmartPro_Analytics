@@ -1,5 +1,5 @@
 ![Banner de LinkedIn Lugar de Trabajo Ordenado (4)](https://github.com/Floryofre/SmartPro_Analytics/blob/main/imagenes/bannerNBA3.png?raw=true)
-https://github.com/Floryofre/SmartPro_Analytics/blob/main/imagenes/bannerNBA3.png?raw=true
+
 ## Introducción
 
 Bienvenidos al repositorio del proyecto final de **SmartPro Analytics**, una consultora especializada en análisis de datos.
