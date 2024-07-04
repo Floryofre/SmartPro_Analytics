@@ -202,3 +202,37 @@ De esta manera, nuestro proyecto ofrece claridad y hallazgos valiosos para decis
 Agradecemos sinceramente a todos los miembros del equipo de SmartPro Analytics por su dedicación y colaboración en la ejecución de este proyecto. 
 
 También queremos expresar nuestro profundo agradecimiento a Joel Stanich, nuestro mentor, por su consejo, apoyo y guía constante durante todo el proceso. Extendemos nuestro reconocimiento a todas las personas de Henry que nos guiaron, enseñaron y ayudaron a crecer como personas, así como a los profesores Flavio Bevilacqua, Cristian Castro, Bryan Arias, y a los TAs Felipe Varela, Saul Zambrano, Daniel Hernandez, y a Valentín Martínez Biasi por su invaluable apoyo.
+
+
+- <a href="https://www.linkedin.com/in/joelstanich/">
+  <img alt="Joel Stanich" title="Connect with Joel" src="https://img.shields.io/badge/Joel Stanich-0077B5?style=flat&logo=Linkedin&logoColor=white">
+  </a><span style="margin-left: 6px;"> - MENTOR</span>
+
+- <a href="https://www.linkedin.com/in/cristiangabrielcastro/">
+  <img alt="Cristian Gabriel Castro" title="Connect with Cristian" src="https://img.shields.io/badge/Cristian Gabriel Castro-0077B5?style=flat&logo=Linkedin&logoColor=white">
+  </a><span style="margin-left: 6px;"> - PROFESOR</span>
+
+- <a href="https://www.linkedin.com/in/bryan-arias-quinchia/">
+  <img alt="Bryan Arias" title="Connect with Bryan" src="https://img.shields.io/badge/Bryan Arias-0077B5?style=flat&logo=Linkedin&logoColor=white">
+  </a><span style="margin-left: 6px;"> - PROFESOR</span>
+
+- <a href="https://www.linkedin.com/in/flabevy/">
+  <img alt="Flavio Bevilacqua" title="Connect with Flavio" src="https://img.shields.io/badge/Flavio Bevilacqua-0077B5?style=flat&logo=Linkedin&logoColor=white">
+  </a><span style="margin-left: 6px;"> - PROFESOR</span>
+
+- <a href="https://www.linkedin.com/in/felipe-varela-miranda/">
+  <img alt="Felipe Varela" title="Connect with Felipe" src="https://img.shields.io/badge/Felipe Varela-0077B5?style=flat&logo=Linkedin&logoColor=white">
+  </a><span style="margin-left: 6px;"> - TA</span>
+
+- <a href="https://www.linkedin.com/in/saul-zambrano/">
+  <img alt="Saul Zambrano" title="Connect with Saul" src="https://img.shields.io/badge/Saul Zambrano-0077B5?style=flat&logo=Linkedin&logoColor=white">
+  </a><span style="margin-left: 6px;"> - TA</span>
+
+- <a href="https://www.linkedin.com/in/daniel-hern%C3%A1ndez-84991429a/">
+  <img alt="Daniel Hernandez" title="Connect with Daniel" src="https://img.shields.io/badge/Daniel Hernandez-0077B5?style=flat&logo=Linkedin&logoColor=white">
+  </a><span style="margin-left: 6px;"> - TA</span>
+
+- <a href="https://www.linkedin.com/in/valentin-martinez-biasi/">
+  <img alt="Valentín Martínez Biasi" title="Connect with Valentín" src="https://img.shields.io/badge/Valentín Martínez Biasi-0077B5?style=flat&logo=Linkedin&logoColor=white">
+  </a><span style="margin-left: 6px;"> - HA</span>
+
