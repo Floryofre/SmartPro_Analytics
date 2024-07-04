@@ -148,9 +148,50 @@ Descripción de los Datos:
 
 - Herramientas: Power BI.
 
+## 🔹 El DASHBOARD 🔹
+## Portada
+<img src="https://github.com/Floryofre/SmartPro_Analytics/blob/main/imagenes/Portada_PF.png?raw=true" alt="Portada" style="float: left; margin-right: 10px;" width="700" height="auto" />
+
+
+Al ingresar al dashboard encontramos diferentes pestañas para acceder a cada parte del análisis.
+
+## Equipos
+<img src="https://github.com/Floryofre/SmartPro_Analytics/blob/main/imagenes/Equipos_PF.png?raw=true" alt="Equipos" style="float: left; margin-right: 10px;" width="700" height="auto" />
+En cuanto a la parte del análisis de equipos, encontramos algunos gráficos que representan la cantidad de partidos ganados de manera local y también los partidos ganados como visitante, así como una comparación del total de partidos ganados. También es posible segmentar la información en caso de que queramos ver únicamente la información de la conferencia Este u Oeste o por año específico. 
+
+También encontramos tres KPIs que nos dan la información más importante de manera resumida y también al seleccionar un solo equipo podemos ver información más detallada sobre cada uno de ellos. En todas las pestañas del dashboard encontramos este botón, el cual es un asistente de Inteligencia Artificial al que le podemos realizar preguntas específicas sobre los datos y él nos trae la respuesta.
+
+## Drafts
+<img src="https://github.com/Floryofre/SmartPro_Analytics/blob/main/imagenes/Draft_PF.png?raw=true" alt="Drafts" style="float: left; margin-right: 10px;" width="700" height="auto" />
+
+En cuanto a la pestaña de drafts, aquí podemos encontrar información sobre cuáles son las universidades que aportan más jugadores a la NBA y los aportes de cada una a lo largo del tiempo. Esta información puede ser muy valiosa a tener en cuenta a la hora de encontrar jugadores con alto potencial para representación.
+
+## Jugadores
+<img src="https://github.com/Floryofre/SmartPro_Analytics/blob/main/imagenes/Jugadores_PF%20.png?raw=true" alt="Jugadores" style="float: left; margin-right: 10px;" width="700" height="auto" />
+En cuanto a la sección de jugadores, aquí encontramos a los 10 jugadores mejor pagados de la última temporada y su desempeño teniendo en cuenta diferentes aspectos. También encontramos la información sobre partidos jugados y puntos totales, y este tercer KPI que hemos llamado índice de rendimiento individual, el cual asigna un valor porcentual a cada uno de los aspectos del desempeño y los resume todos a un solo valor. Este índice nos proporciona un valor único que ofrece una visión integral del rendimiento de cada jugador. Utilizando este índice, hemos categorizado a los jugadores en cinco niveles de rendimiento, los cuales exploraremos más detalladamente más adelante.
+
+## Lesiones
+<img src="https://github.com/Floryofre/SmartPro_Analytics/blob/main/imagenes/Lesiones_PF.png?raw=true" alt="Lesiones" style="float: left; margin-right: 10px;" width="700" height="auto" />
+Otro aspecto que nos pareció vital en el análisis de maximización de desempeño es el tema de las lesiones. Aquí podemos encontrar un diagrama corporal que nos brinda una visualización clara de las áreas más comunes de lesiones. Además, podemos filtrar por rango de edad y partes del cuerpo para entender mejor patrones existentes en las lesiones. También podemos encontrar un gráfico de dispersión que relaciona la cantidad de lesiones contra la cantidad de minutos jugados. Esto ayuda a identificar si hay un incremento en la cantidad de lesiones con más tiempo de juego.
+
+Luego tenemos este gráfico que muestra la distribución de lesiones por tipo para identificar cuáles son las zonas del cuerpo que requieren mayor precaución, atención y fortalecimiento para prevenir incidentes, maximizar el desempeño y también cuidar mejor la salud de los jugadores.
+
+## Contratación
+<img src="https://github.com/Floryofre/SmartPro_Analytics/blob/main/imagenes/Captura%20de%20pantalla%20(1690).png?raw=true" alt="Contratación" style="float: left; margin-right: 10px;" width="700" height="auto" />
+En cuanto al análisis de contratación, lo que hicimos fue crear este gráfico de dispersión interactivo el cual nos permite relacionar el salario respecto a diferentes variables tales como la edad, puntos por partido, asistencias, etc. A través de esta exploración de datos, notamos que si bien hay jugadores con rendimientos excelentes ganando sueldos muy altos, también hay jugadores con el mismo desempeño excelente en un rango de salario mucho menor, los cuales representan un potencial altísimo de inversión y de crecimiento económico futuro. Aquí podemos encontrar a cinco de los jugadores que cumplen con algunos parámetros que consideramos que serían los ideales para una buena inversión, los cuales son tener un desempeño excelente, estar por debajo de 25 años y que su salario sea menor a 10 millones. De esta manera, los jugadores que consideramos que podrían ser una muy buena inversión son:
+
+- Teres Garland
+- LaMelo Ball
+- Teris Halberton
+- Keldon Johnson
+- Desmond Bain
+
+Pero de igual manera, si en otro momento la agencia tiene otras condiciones, de pronto un mayor o menor presupuesto, el dashboard también se puede ajustar de acuerdo a condiciones diferentes. Por ejemplo, en un rango menor de presupuesto, también podemos encontrar algunos jugadores con un muy buen rendimiento, los cuales también podrían representar una muy buena inversión. 
+
 
 
 ## 🔹 Conclusión 🔹
 
 Este proyecto tiene como objetivo principal mejorar el posicionamiento de la agencia de representación deportiva en el mercado, mediante el uso de análisis de datos avanzados y estrategias basadas en datos. El equipo de SmartPro Analytics entregó a la agencia un Dashboard con análisis y resultados que optimizan el rendimiento de los jugadores y apoyan la toma de decisiones informadas sobre la gestión de nuevos contratos.
 
+De esta manera, nuestro proyecto ofrece claridad y hallazgos valiosos para decisiones informadas en contratación y optimización de estrategias de representación, asegurando que la agencia de representación deportiva continúe creciendo y destacándose en el competitivo mercado de la NBA.
