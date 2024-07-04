@@ -195,3 +195,10 @@ Pero de igual manera, si en otro momento la agencia tiene otras condiciones, de 
 Este proyecto tiene como objetivo principal mejorar el posicionamiento de la agencia de representación deportiva en el mercado, mediante el uso de análisis de datos avanzados y estrategias basadas en datos. El equipo de SmartPro Analytics entregó a la agencia un Dashboard con análisis y resultados que optimizan el rendimiento de los jugadores y apoyan la toma de decisiones informadas sobre la gestión de nuevos contratos.
 
 De esta manera, nuestro proyecto ofrece claridad y hallazgos valiosos para decisiones informadas en contratación y optimización de estrategias de representación, asegurando que la agencia de representación deportiva continúe creciendo y destacándose en el competitivo mercado de la NBA.
+
+
+## 🔹 Agradecimientos 🔹
+
+Agradecemos sinceramente a todos los miembros del equipo de SmartPro Analytics por su dedicación y colaboración en la ejecución de este proyecto. 
+
+También queremos expresar nuestro profundo agradecimiento a Joel Stanich, nuestro mentor, por su consejo, apoyo y guía constante durante todo el proceso. Extendemos nuestro reconocimiento a todas las personas de Henry que nos guiaron, enseñaron y ayudaron a crecer como personas, así como a los profesores Flavio Bevilacqua, Cristian Castro, Bryan Arias, y a los TAs Felipe Varela, Saul Zambrano, Daniel Hernandez, y a Valentín Martínez Biasi por su invaluable apoyo.
