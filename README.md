@@ -236,3 +236,9 @@ También queremos expresar nuestro profundo agradecimiento a Joel Stanich, nuest
   <img alt="Valentín Martínez Biasi" title="Connect with Valentín" src="https://img.shields.io/badge/Valentín Martínez Biasi-0077B5?style=flat&logo=Linkedin&logoColor=white">
   </a><span style="margin-left: 6px;"> - HA</span>
 
+<!-- COLABORADORES -->
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=28&center=true&vCenter=true&width=600&height=100&lines=COLABORADORES;Ángela+Escobar+Castro;Arturo+Ponce+de+León;Daniel+Choi;Lautaro+Fochesatto;Ma.+Florencia+Yofre;Muchas+Gracias+por+llegar+hasta+aquí;Contáctenos+y;Transformaremos+Datos+en+Decisiones"></a>
+</p>
+
+
