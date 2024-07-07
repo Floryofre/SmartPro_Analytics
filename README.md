@@ -47,6 +47,8 @@ El propósito principal de este proyecto es proporcionar a la agencia herramient
 - **Base de Datos Estructurada**: Gestión simplificada y análisis accesible de datos históricos y actuales.
 - **Código Especializado**: Análisis de datos adaptados a las necesidades específicas de la compañía.
 
+
+
 ## 🔹 Fuentes de Datos 🔹
 
  Utilizamos los siguientes dataset de Kaggle:
@@ -147,6 +149,10 @@ Descripción de los Datos:
 ### _Fase 3: Comunicación y Presentación de Resultados_
 
 - Herramientas: Power BI.
+
+## 🔹 Video de presentación del Proyecto 🔹
+[![Video del Proyecto](https://img.youtube.com/vi/5d-FAVGzI9c/0.jpg)](https://www.youtube.com/watch?v=5d-FAVGzI9c&t=1s)
+
 
 ## 🔹 El DASHBOARD 🔹
 ## Portada
